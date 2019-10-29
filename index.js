@@ -1,6 +1,3 @@
-/**
- * Created by mash on 2019/10/17
- */
 export default [
     {
         'short': 'CN',
